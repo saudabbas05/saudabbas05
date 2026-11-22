@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#040c0a"/><stop offset="1" stop-color="#092a20"/></linearGradient><linearGradient id="green" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#48f3b6"/><stop offset="1" stop-color="#058f67"/></linearGradient><linearGradient id="gold" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#ffe7a8"/><stop offset="1" stop-color="#bd8736"/></linearGradient><pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0 H0 V42" stroke="#1a5742" stroke-opacity=".25" fill="none" stroke-width="1"/></pattern></defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/><rect width="1280" height="400" rx="24" fill="url(#grid)"/><path d="M0 5H1280" stroke="#c7a15a" stroke-width="5"/><path d="M0 395H1280" stroke="#c7a15a" stroke-width="3"/>
+<circle cx="1090" cy="195" r="244" fill="none" stroke="#14c78f" stroke-width="2" opacity=".21"/><circle cx="1090" cy="195" r="180" fill="none" stroke="#d4a95a" stroke-width="2" opacity=".25"/><circle cx="1090" cy="195" r="130" fill="none" stroke="#14c78f" stroke-width="2" opacity=".27"/>
+<path d="M1180 0L925 400M1240 0L995 400" stroke="#1ecb91" stroke-width="2" opacity=".16"/>
+<g transform="translate(61 93) scale(.58)"><path d="M396 68 H211 C133 68 91 101 91 161 C91 201 122 225 171 248 L245 281 L305 226 L190 179 C177 173 169 166 169 154 C169 135 189 125 226 125 H360Z" fill="url(#green)"/><path d="M79 380 H254 C330 380 375 340 375 280 C375 241 348 218 297 196 L236 169 L188 219 L276 259 C290 266 298 273 298 284 C298 304 277 319 240 319 H136Z" fill="url(#gold)"/></g>
+<path d="M314 72V331" stroke="#d8ae62" stroke-width="3"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="350" y="126" font-size="23" letter-spacing="6" font-weight="bold" fill="#e9c67e">SM TECH SOLUTIONS</text>
+<text x="347" y="210" font-size="57" font-weight="bold" fill="#ffffff">Saud Abbas</text>
+<text x="349" y="260" font-size="25" font-weight="bold" fill="#4ce6ac">AI-Assisted Software Developer</text>
+<text x="349" y="297" font-size="20" fill="#e1cfaa">Prompt Engineering · Business Development · QA</text>
+<text x="350" y="352" font-size="16" fill="#a4c2b2" letter-spacing="2">BUILDING SMARTER DIGITAL SOLUTIONS</text>
+</g>
+<g stroke="#d9ae5b" stroke-width="3" fill="none" opacity=".7"><path d="M1120 103l24 0 0 24"/><path d="M1095 292h-24v-24"/></g>
+<circle cx="1160" cy="93" r="8" fill="#30d9a0"/><circle cx="1105" cy="314" r="6" fill="#dcb663"/>
+</svg>
