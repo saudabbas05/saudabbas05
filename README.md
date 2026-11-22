@@ -19,6 +19,9 @@
 [![CV](https://img.shields.io/badge/RESUME-View_profile-D4AD59?style=for-the-badge&logo=readme&logoColor=white&labelColor=101510)](CV.md)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-Discuss_a_project-16A477?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101510)](https://wa.me/923152515975)
 
+<p align="center"><a href="https://sm-tech-portfolio-production.up.railway.app"><img src="https://img.shields.io/badge/🌐_OPEN_MY_PORTFOLIO-FULL_SCREEN_WEBSITE-D4AD59?style=for-the-badge&labelColor=123322" alt="Open standalone portfolio website"/></a></p>
+<p align="center"><a href="https://sm-tech-portfolio-production.up.railway.app"><strong>🌐 View the full-screen SM Tech Solutions website →</strong></a></p>
+
 **[ABOUT ME](#-about-me)** &nbsp; • &nbsp; **[FEATURED WORK](#-featured-work)** &nbsp; • &nbsp; **[SKILLS](#-skills--toolkit)** &nbsp; • &nbsp; **[SERVICES](#-sm-tech-solutions)** &nbsp; • &nbsp; **[CONTACT](#-lets-connect)**
 
 </div>
