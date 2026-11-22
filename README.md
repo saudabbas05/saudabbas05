@@ -1,65 +1,214 @@
-<p align="center">
-  <img src="assets/sm-tech-solutions-logo.svg" alt="SM Tech Solutions — Emerald Green & Gold" width="800">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm Saud Abbas 👋</h1>
-<p align="center"><strong>AI-Assisted Software Development · Prompt Engineering · Business Development</strong></p>
-<p align="center">BS Computer Science · University of Central Punjab (2026) · Pakistan</p>
+<img src="assets/profile-banner.svg" alt="SM Tech Solutions — Saud Abbas" width="100%"/>
 
-<p align="center">
-  <a href="mailto:msaudabbas05@icloud.com"><img src="https://img.shields.io/badge/Email-Contact-087F5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/saud-abbas-3876ab248"><img src="https://img.shields.io/badge/LinkedIn-Connect-D4AD59?style=for-the-badge&logo=linkedin&logoColor=111111" alt="LinkedIn"></a>
-  <a href="CV.md"><img src="https://img.shields.io/badge/Resume-Read%20CV-0B1914?style=for-the-badge&logo=readme&logoColor=white" alt="Read CV"></a>
-</p>
+<br/>
+
+### Building practical software. Solving real business problems.
+
+**AI-Assisted Software Developer** &nbsp; · &nbsp; **Prompt Engineer** &nbsp; · &nbsp; **Business Development**
+
+<img src="https://img.shields.io/badge/OPEN_TO-REMOTE_OPPORTUNITIES-0A805A?style=flat-square&labelColor=071D15" alt="Open to remote opportunities"/>
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-D4AD59?style=flat-square&labelColor=071D15" alt="Based in Pakistan"/>
+<img src="https://img.shields.io/badge/EDUCATION-BS_COMPUTER_SCIENCE-0A805A?style=flat-square&labelColor=071D15" alt="BS Computer Science"/>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/EMAIL-Get_in_touch-D4AD59?style=for-the-badge&logo=gmail&logoColor=101510&labelColor=101510)](mailto:msaudabbas05@icloud.com?subject=SM%20Tech%20Solutions%20Inquiry)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Let's_connect-16A477?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101510)](https://www.linkedin.com/in/saud-abbas-3876ab248)
+[![CV](https://img.shields.io/badge/RESUME-View_profile-D4AD59?style=for-the-badge&logo=readme&logoColor=white&labelColor=101510)](CV.md)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-Discuss_a_project-16A477?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101510)](https://wa.me/923152515975)
+
+**[ABOUT ME](#-about-me)** &nbsp; • &nbsp; **[FEATURED WORK](#-featured-work)** &nbsp; • &nbsp; **[SKILLS](#-skills--toolkit)** &nbsp; • &nbsp; **[SERVICES](#-sm-tech-solutions)** &nbsp; • &nbsp; **[CONTACT](#-lets-connect)**
+
+</div>
 
 ---
 
-### 👨‍💻 About me
+## ✨ About Me
 
-I'm a **BS Computer Science graduate** who works on practical **AI-assisted software**, business workflows, web projects and software testing. Through **SM Tech Solutions**, I help understand client requirements, plan and coordinate digital solutions, and collaborate with developers to deliver useful business systems.
+```text
+NAME       Saud Abbas
+BRAND      SM Tech Solutions
+EDUCATION  BS Computer Science — University of Central Punjab (2026)
+FOCUS      AI-assisted software • Prompt engineering • Business development
+MISSION    Building smarter digital solutions for real business needs
+```
 
-I focus on **prompt engineering, QA, web development, deployment coordination, client acquisition and business development**.
+I'm a computer science graduate who works at the intersection of **software development, business operations and AI-assisted workflows**. I focus on turning real client requirements into useful products—from **custom management systems** to **websites, dashboards and automation**.
 
-### 🛠 SM Tech Solutions — What we do
+Alongside technical work, I'm interested in **client acquisition, requirements analysis, QA/testing, deployment and project coordination**. My role across projects can include AI-assisted implementation, designing workflows, testing, specification and collaborating with developers.
 
-| Software & technology | Business & operations |
-|---|---|
-| Responsive websites and web apps | Requirements gathering & project scoping |
-| Custom business dashboards | Client discovery and communication |
-| CRM / ERP-style workflows | Process digitization |
-| AI-assisted automation | Product and supplier research |
-| Software testing and UI review | Delivery coordination and follow-up |
+---
 
-### 🚀 Selected projects
+## 🚀 Featured Work
 
-| Project | Description | Link / stage |
-|---|---|---|
-| **SM Kinnow Factory Pro** | Truck processing, khatas, cash/bank entries, bills and reporting | Private business software |
-| **SM Bulk Supply / Mandi** | Trading accounts, ledgers and printable statements | [GitHub](https://github.com/saudabbas05/sm-bulk-supply) |
-| **SM Scott Motors** | Automotive business website and online presentation | [GitHub](https://github.com/saudabbas05/sm-scott-motors) |
-| **SM HomeFix** | Home-services application and Node.js/NestJS API work | In development |
-| **SM AI Client Hunter** | Lead search, reviewed outreach, remote-job discovery and meetings | [Live app](https://sm-client-hunter-production.up.railway.app) |
-| **Hostel Rent Management** | Tenant, occupancy and rent tracking | Private business project |
-| **SM Commerce Desk** | E-commerce orders, supplier research and profit tracking | Business project |
-| **SM FARMSS** | Agricultural export business website | [Website](https://smfarmss.com) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*These projects include varying degrees of AI-assisted development, prototyping, requirements analysis, testing and coordination. Not all projects are open-source or fully released.*
+### 🍊 SM Kinnow Factory Pro
+**Factory Management System**
 
-### 🎓 Education & skills
+Truck processing, peti records, khata ledgers, cash and bank entries, payment flows, slips and reports.
 
-**Bachelor of Science in Computer Science** — University of Central Punjab, Lahore · 2026
+`Business workflows` `Reporting` `QA`
 
-**Technical interests:** AI prompt engineering · HTML/CSS/JavaScript · Node.js and REST APIs (fundamentals) · Manual QA · GitHub · VS Code · Railway deployment · Responsive UI
+**Private business project**
 
-**Business skills:** Business development · Requirements gathering · Client communication · Project coordination · Workflow design
+</td>
+<td width="50%" valign="top">
 
-### 🤝 Work with SM Tech Solutions
+### 🤖 SM AI Client Hunter
+**Lead Discovery + Remote Job Finder**
 
-Need a **custom website, software solution, management system, CRM/ERP-style workflow or AI automation**? Share your requirements for a project discussion.
+Client discovery, reviewed outreach, remote-job search and meeting/interview tracking for SM Tech Solutions.
 
-**Email:** [msaudabbas05@icloud.com](mailto:msaudabbas05@icloud.com?subject=SM%20Tech%20Solutions%20Project%20Inquiry)  
-**LinkedIn:** [Saud Abbas](https://www.linkedin.com/in/saud-abbas-3876ab248)  
-**WhatsApp:** [Contact](https://wa.me/923152515975)  
-**Resume:** [CV summary](CV.md)
+`Web App` `Automation` `Railway`
 
-<p align="center"><strong>SM Tech Solutions — Building Smarter Digital Solutions.</strong></p>
+**[View Live Application](https://sm-client-hunter-production.up.railway.app)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📒 SM Bulk Supply / Mandi
+**Trade & Accounting Workflows**
+
+Party accounts, trading ledgers, printable statements and business-management flows.
+
+`Business Software` `Ledgers` `Reports`
+
+**[View Repository](https://github.com/saudabbas05/sm-bulk-supply)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 SM HomeFix
+**Home Services Platform**
+
+Service marketplace idea with Node.js/NestJS APIs and city-management functionality.
+
+`Node.js` `NestJS` `REST API`
+
+**In development**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Hostel Management
+**Rent & Tenant Tracking**
+
+Room allocations, tenants, rent statuses, receipts and daily operational records.
+
+`Dashboard` `Operations` `Tracking`
+
+**Private business project**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚘 SM Scott Motors
+**Automotive Web Presence**
+
+Business web presentation and digital brand experience.
+
+`Website` `Branding` `UI`
+
+**[View Repository](https://github.com/saudabbas05/sm-scott-motors)**
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More business projects</b></summary>
+
+<br/>
+
+- **SM Commerce Desk:** e-commerce sourcing, orders, supplier discovery and profit workflows
+- **SM FARMSS:** agriculture export business and [online presence](https://smfarmss.com)
+- **SM Agro Supplies:** agricultural-products storefront concept
+
+</details>
+
+<sub>Some projects are private, in development or AI-assisted. Project roles vary and may include implementation, planning, workflow design, QA and coordination; not every project was coded independently.</sub>
+
+---
+
+## 🧰 Skills & Toolkit
+
+<div align="center">
+
+**Development & technology**
+
+![HTML5](https://img.shields.io/badge/HTML5-16261F?style=for-the-badge&logo=html5&logoColor=E7B35B)
+![CSS3](https://img.shields.io/badge/CSS3-16261F?style=for-the-badge&logo=css&logoColor=25CE95)
+![JavaScript](https://img.shields.io/badge/JavaScript-16261F?style=for-the-badge&logo=javascript&logoColor=E7B35B)
+![Node.js](https://img.shields.io/badge/Node.js-16261F?style=for-the-badge&logo=node.js&logoColor=25CE95)
+![REST APIs](https://img.shields.io/badge/REST_APIs-16261F?style=for-the-badge&logo=postman&logoColor=E7B35B)
+
+**Tools & deployment**
+
+![VS Code](https://img.shields.io/badge/VS_Code-16261F?style=for-the-badge&logo=visualstudiocode&logoColor=25CE95)
+![GitHub](https://img.shields.io/badge/GitHub-16261F?style=for-the-badge&logo=github&logoColor=E7B35B)
+![Railway](https://img.shields.io/badge/Railway-16261F?style=for-the-badge&logo=railway&logoColor=25CE95)
+
+**Professional focus**
+
+`AI Prompt Engineering` &nbsp; `AI-Assisted Development` &nbsp; `Manual QA` &nbsp; `Business Development`  
+`Requirements Gathering` &nbsp; `UI Testing` &nbsp; `Project Coordination`
+
+</div>
+
+---
+
+## 💼 SM Tech Solutions
+
+<div align="center">
+
+<img src="assets/sm-tech-solutions-logo.svg" alt="SM Tech Solutions corporate mark" width="620"/>
+
+### Your ideas. Our digital solutions.
+
+</div>
+
+| 💻 Build | ⚡ Automate | 📊 Optimize |
+|:---|:---|:---|
+| Business websites | AI-assisted workflows | Dashboards & reporting |
+| Custom software | Operational automation | CRM / ERP-style systems |
+| Responsive web apps | Data entry processes | QA & usability review |
+
+**How we work:** Discover requirements → Scope the solution → Develop & test → Review → Deliver & improve.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Computer Science**  
+University of Central Punjab, Lahore · **2026**
+
+---
+
+## 🤝 Let's Connect
+
+Open to discussions about **custom software, websites, workflow automation, AI-assisted solutions** and suitable **remote roles** in software, QA and business development.
+
+<div align="center">
+
+**📧 [Email](mailto:msaudabbas05@icloud.com?subject=SM%20Tech%20Solutions%20Project%20Inquiry)** &nbsp; | &nbsp;
+**💼 [LinkedIn](https://www.linkedin.com/in/saud-abbas-3876ab248)** &nbsp; | &nbsp;
+**💬 [WhatsApp](https://wa.me/923152515975)** &nbsp; | &nbsp;
+**📄 [Resume](CV.md)**
+
+<br/>
+
+**SM Tech Solutions**  
+*Building Smarter Digital Solutions.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:071A13,50:0F7B55,100:D4AD59&height=5&section=footer" width="100%" alt="Green and gold footer accent"/>
+
+</div>
